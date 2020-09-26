@@ -25,3 +25,9 @@
 #container a {
   text-decoration: none;
 }
+
+ion-button {
+  --background: linear-gradient(90deg, #0953dd 0%, #0072f5 100%);
+  --box-shadow: 0px 0px 5px rgb(12, 114, 173);
+  --opacity: 0.8;
+}
